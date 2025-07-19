@@ -129,7 +129,7 @@ MSG_BUTTON_CANCEL_BROADCAST = "🛑 Cancel Broadcast"
 MSG_BUTTON_VIEW_PROFILE = "👤 View User Profile"
 MSG_BUTTON_ABOUT = "ℹ️ About Bot"
 MSG_BUTTON_JOIN_CHANNEL = "📢 Join {channel_title}"
-MSG_BUTTON_GITHUB = "🛠️ GitHub"
+MSG_BUTTON_GITHUB = "Support"
 MSG_BUTTON_START_CHAT = "📩 Start Chat"
 MSG_BUTTON_CLOSE = "✖ Close"
 
